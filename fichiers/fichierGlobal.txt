@@ -1,0 +1,6 @@
+Bonjour,
+je ss file 1
+
+Bonjour,
+Ceci est le contenu du fichier exemple1.
+

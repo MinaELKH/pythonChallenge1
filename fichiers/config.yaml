@@ -1,0 +1,14 @@
+nom: MonApplication
+version: 1.0
+debug: true
+
+base_de_donnees:
+  hote: localhost
+  port: 5432
+  utilisateur: admin
+  mot_de_passe: secret
+
+modules:
+  - authentification
+  - statistiques
+  - export
